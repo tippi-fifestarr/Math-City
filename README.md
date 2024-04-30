@@ -1,7 +1,9 @@
 # Math City: Life on the Block
 
-> Blockpass NFT: https://sepolia.scrollscan.com/address/0xdbd9967cf95ee79b343500a9f791ef5d5649d4b7#code
-> Math City Game Contract: https://sepolia.scrollscan.com/address/0xe48c638ffaea71f3f2940997af0a4887486f81a5#code
+> [Blockpass NFT](https://sepolia.scrollscan.com/address/0xdbd9967cf95ee79b343500a9f791ef5d5649d4b7#code) with Chainlink.
+
+> [Math City Game Contract](https://sepolia.scrollscan.com/address/0xe48c638ffaea71f3f2940997af0a4887486f81a5#code) with Chainlink.
+
 > Noir ZK Proofs & Circuits in `/circuits/`
 
 ![Group 1.png](https://cdn.dorahacks.io/static/files/18f2cfb737c156cb1fa6f0c4c11ac045.png)
