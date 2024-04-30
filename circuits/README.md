@@ -1,5 +1,3 @@
-Primary focus is in ``vite/main.js```
-
 Steps:
 Setup noir
 ```
