@@ -1,5 +1,9 @@
 # Math City: Life on the Block
 
+> Blockpass NFT: https://sepolia.scrollscan.com/address/0xdbd9967cf95ee79b343500a9f791ef5d5649d4b7#code
+> Math City Game Contract: https://sepolia.scrollscan.com/address/0xe48c638ffaea71f3f2940997af0a4887486f81a5#code
+> Noir ZK Proofs & Circuits in `/circuits/`
+
 ![Group 1.png](https://cdn.dorahacks.io/static/files/18f2cfb737c156cb1fa6f0c4c11ac045.png)
 
 Life ain't easy in Math City, not since the Vortex twisted the equation and turned Chicago into a cryptographer's playground. Here, look at these characters: Alice, the hard-boiled Proof Sleuth with a sharp eye for detail, and B'lock, the notorious Crime Boss whose circuits are as crossed as the city's back alley (& politics). But thanks to Scroll, transactions are transparent at least, the fuel we run on comes cheap, and the action's as fast and wide open as the spray from a guitar-case tommy gun.
